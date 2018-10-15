@@ -25,6 +25,6 @@ function dec(a){
   return --a;
 }
 
-function dec(a){
+function makeInt(a){
   return parseInt(a);
 }
